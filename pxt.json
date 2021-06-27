@@ -1,0 +1,22 @@
+{
+    "name": "main editor receive screen pattern",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "radio-broadcast": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
